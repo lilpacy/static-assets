@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Company1",
+    "city": "Tokyo",
+    "icon": "https://i.picsum.photos/id/313/50/50.jpg?hmac=ZqoFzPSYU2_BihM0xBkNIqBfmVIEsNB1gWyq8RHMjWg",
+    "address": "0xd0887E868eCd4b16B75c60595DD0a7bA21Dbc0E9"
+  },
+  {
+    "name": "Company2",
+    "city": "Osaka",
+    "icon": "https://i.picsum.photos/id/465/50/50.jpg?hmac=yMbi51LNSW-qzNJhcUdudV6nSIO52-mDS9k486JkcFw",
+    "address": "0xEFb5BCC9b58fDaBEc50d3bFb5838f8FBf65B5Bba"
+  },
+  {
+    "name": "Company3",
+    "city": "New York",
+    "icon": "https://i.picsum.photos/id/980/50/50.jpg?hmac=O1DMfDzl9dhAKSjvFsryjLtpGrCVBfEIRQiMs6GxMR8",
+    "address": "0xd96FF3bfe34AF3680806d25cbfc1e138924f0Af2"
+  },
+  {
+    "name": "Company4",
+    "city": "Sao Paulo",
+    "icon": "https://i.picsum.photos/id/444/50/50.jpg?hmac=02hBP-Wr1f6QYPPXZrLS0rh6xo5bwhNdE2mKXd6OpYM",
+    "address": "0xa0BE9Fa71e130df9B033F24AF4b8cD944976081a"
+  },
+  {
+    "name": "Company5",
+    "city": "Paris",
+    "icon": "https://i.picsum.photos/id/976/50/50.jpg?hmac=mA1eFUecH2T7tLyfLoiQLbzpvpWcTmeNZD9uqbspvyo",
+    "address": "0xB39122c87732252e26DD2B4a2cd003c937610cd0"
+  },
+  {
+    "name": "Company6",
+    "city": "Tokyo",
+    "icon": "https://i.picsum.photos/id/724/50/50.jpg?hmac=VMK53Oyno-1J5fS9K4l4LB-M4eMEJsublUDq5801BNA",
+    "address": "0x25F26e3d6Cc6bE59D63dF0EB1C102E48928A3D0a"
+  },
+  {
+    "name": "Company7",
+    "city": "Tokyo",
+    "icon": "https://i.picsum.photos/id/545/50/50.jpg?hmac=cn69Y0DBRPTBOTl3SZCKcvL6_hQgN9xrA4d3MEHCQjo",
+    "address": "0x264200e81fBB19e82Dc31843f351cBE07f095835"
+  },
+  {
+    "name": "Company8",
+    "city": "Tokyo",
+    "icon": "https://i.picsum.photos/id/30/50/50.jpg?hmac=NwG4W4vHtEenBxNv1J4l62VoTpxnoLu8PXAGf1bdGa0",
+    "address": "0x11Be4281C5BEa61DAA7ee01Bc23d49298835484C"
+  },
+  {
+    "name": "Company9",
+    "city": "Tokyo",
+    "icon": "https://i.picsum.photos/id/112/50/50.jpg?hmac=0bbQUXuiNeod6dqAnr8s3wsxgo9g0i4Db5uXxmkbwVc",
+    "address": "0x086685d665D963220B81e688505527F47EB26cEC"
+  },
+  {
+    "name": "Company10",
+    "city": "Tokyo",
+    "icon": "https://i.picsum.photos/id/38/50/50.jpg?hmac=TPQjibU0dLAy-4WMp2zNhtbHo_MhwDRoaQHDwLIfGz8",
+    "address": "0x99c2C0BcA011Ff7C722dFFadB2140D06b6D28aF7"
+  }
+]
